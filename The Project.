@@ -1,3 +1,4 @@
+//The project-Code
 
 #include <iostream>
 
@@ -23,13 +24,30 @@ cin >> choice;
 if(choice < 1 || choice > 3) {
 cout << "Not exist in the store. " << endl; 
 return 0; 
-}
+} else {
 return choice; 
 }
+}
+
+int QuantityOfItem(){
+int quantity = 100; 
+cout << "How many Items do you want: "; 
+cin >> quantity; 
+
+if(quantity < 1 || quantity > 100) {
+cout >> "Too much! 100 is the max you can buy. " << endl; 
+return 0; 
+} else {
+return quantity; 
+}
+}
+
 
 int main(){
 ItemToChose(); 
 int choice = User_Choice(); 
+int quantity = QuantityOfItem(); 
+
 return 0;
 }
 
