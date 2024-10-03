@@ -7,3 +7,11 @@
 
 This code is writen in C++ language and the code is just using some basics C++ language such as: function, function prototype, global varialble, local variable, switch statement, "if/ else" statement, conditional operator and etc....
 
+This are thefunction that will be used in the  code: 
+![Screenshot 2024-10-02 205501](https://github.com/user-attachments/assets/a52eb97d-bb0d-4bf9-ae0f-3b02021baf19)
+
+This is the main function. Those are the thing that will be prints int the termila output. 
+![Screenshot 2024-10-02 221518](https://github.com/user-attachments/assets/b192345f-b32f-4fd2-9a0a-3fc74a827f45)
+
+ video explanatio of the code: 
+ [https://github.com/user-attachments/assets/6e17f7cf-2250-42ae-80af-ecd9d82532dc](https://github.com/user-attachments/assets/6e17f7cf-2250-42ae-80af-ecd9d82532dc)
