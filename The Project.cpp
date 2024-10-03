@@ -6,9 +6,9 @@
 using namespace std;
 
 // Prices for each item
-const double pantPrice = 25.0;
+const double pantPrice = 25.50;
 const double shirtPrice = 15.0;
-const double sweetShirtPrice = 30.0;
+const double sweetShirtPrice = 30.99;
 const double discount = 0.05; 
 
 //Stock available for each item
@@ -38,7 +38,6 @@ int main() {
 
 // Function to prints available Items
 void Inventory() {
-    cout << fixed << setprecision(2); 
     cout << "-----Welcome to SA Clothing Store!-----" << endl;
     cout << "We have the following items in stock:" << endl;
     cout << "1. Pants: $" << pantPrice << " (" << stockOfPants << " in stock)" << endl;
@@ -54,7 +53,7 @@ double UserOrder(int &pantsQuantity, int &shirtQuantity, int &sweatshirtQuantity
      costOfSweetShirt = 0;
 
     //loop to allow the user to chose multiple item 
-    while (true) {
+    while (choice >= 1 || choice <= 3) {
         cout << "Please choose an item to buy (1-Pants, 2-Shirt, 3-Sweatshirt, 0 to stop): ";
         cin >> choice;
         
