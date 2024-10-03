@@ -7,6 +7,11 @@
 
 This code is writen in C++ language and the code is just using some basics C++ language such as: function, function prototype, global varialble, local variable, switch statement, "if/ else" statement, conditional operator and etc....
 
+ Video explanatio of the code: 
+https://github.com/user-attachments/assets/d387b655-f3f2-4957-ba79-db6c1c354593
+
+
+
 This are thefunction that will be used in the  code: 
 ![Screenshot 2024-10-02 205501](https://github.com/user-attachments/assets/a52eb97d-bb0d-4bf9-ae0f-3b02021baf19)
 
