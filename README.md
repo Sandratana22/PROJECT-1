@@ -8,7 +8,8 @@
 This code is writen in C++ language and the code is just using some basics C++ language such as: function, function prototype, global varialble, local variable, switch statement, "if/ else" statement, conditional operator and etc....
 
  video explanatio of the code: 
- [https://github.com/user-attachments/assets/6e17f7cf-2250-42ae-80af-ecd9d82532dc](https://github.com/user-attachments/assets/6e17f7cf-2250-42ae-80af-ecd9d82532dc)
+ 
+https://github.com/user-attachments/assets/d387b655-f3f2-4957-ba79-db6c1c354593
 
 
 
